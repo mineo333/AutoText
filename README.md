@@ -1,3 +1,3 @@
 # AutoText
-Automatically spam your friends!
+Automatically spam your friends on imessage!
 *Only works on mac
